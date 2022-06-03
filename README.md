@@ -28,9 +28,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-The .gif extension isn't working, just remove the extension to view the Walkthrough.
 
-<img src='https://i.imgur.com/c4QYOfZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s8.gifyu.com/images/flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
