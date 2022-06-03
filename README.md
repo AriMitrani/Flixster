@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s8.gifyu.com/images/flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![flixster](https://user-images.githubusercontent.com/62488981/171961411-eeddcbc7-5a74-40e6-9bc7-d9f29efec3d8.gif)
 
 ## Notes
 
@@ -58,3 +58,4 @@ Since I completed basic functionality on Day 1, I spent Day 2 implementing stret
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
